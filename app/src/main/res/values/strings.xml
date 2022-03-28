@@ -8,4 +8,5 @@
     <string name="computer">Computer</string>
     <string name="button_reset">Button Reset</string>
     <string name="player1_win">Pemain 1\nMenang</string>
+    <string name="versus">VERSUS</string>
 </resources>
