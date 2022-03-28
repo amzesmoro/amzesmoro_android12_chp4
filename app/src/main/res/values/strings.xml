@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">cc_chp4</string>
+    <string name="app_name">Game Suit</string>
+    <string name="player_one">Pemain 1</string>
+    <string name="image_batu">Image Batu</string>
+    <string name="image_kertas">Image Kertas</string>
+    <string name="image_gunting">Image Gunting</string>
+    <string name="greeting">Batu\nGunting\nKertas</string>
+    <string name="computer">Computer</string>
+    <string name="button_reset">Button Reset</string>
+    <string name="player1_win">Pemain 1\nMenang</string>
 </resources>
